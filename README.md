@@ -24,9 +24,9 @@ To play this hack, apply the patch to a clean **Yu-Gi-Oh! - Ultimate Masters - W
 **Download** patch from releases section or [Here](https://github.com/aishwarya25252/WCT2006BATTLECITY/releases/download/v1.0.0/WCT2006BATTLECITY.ups).
 
 ## Credits
-**Scrub Butsa** for his resources on hacking and this game checkout his channels [channel1](https://www.youtube.com/@ScrubBusta) [channel2](https://www.youtube.com/@scrubbusted)
+**Scrub Butsa** for his resources on hacking and this game , checkout his channels [channel1](https://www.youtube.com/@ScrubBusta) [channel2](https://www.youtube.com/@scrubbusted)
 
-**Growlancer** for designing the charecter decks and playtesting them
+**Growlanser** for designing the charecter decks and playtesting them , checkout his discord server [Here](https://discord.gg/5DUeNA7wmE)
 
 🚀 Enjoy dueling in the ultimate **Battle City experience** on GBA!
 
