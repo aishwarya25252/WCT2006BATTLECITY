@@ -1,0 +1,10 @@
+GIMP Palette
+Name: limited
+Columns: 16
+#
+  0 255   0	#0
+136  48   0	#1
+160  64  16	#2
+160  80  16	#3
+184  96  32	#4
+  0   0   0	Untitled
