@@ -9,6 +9,7 @@ A revamped Yu-Gi-Oh! WCT 2006 hack featuring 25 Battle City characters, competit
 - **Huge Revolution Patch Included** – Ensures 100% completion
 - **New In Build Cheat Engine** - Collect all cards unlock all dualists and packs direckly using builtin cheat engine
 - **LP SELECTOR** - Now select your LP for duels 4000LP for ANIME BATTLE CITY STYLE , 16000LP for TAG STYLE and default 8000LP
+- **Starter deck to invincible Fortress** - Now start with Invincible Fortress and then select another structure deck
 
 ## Duelist Roster
 This hack features **all major Battle City duelists**, including:
